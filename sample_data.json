@@ -1,0 +1,17 @@
+[
+  {"timestamp": "2023-07-01T08:00:00", "sensor_id": "temp_001", "value": 22.5, "unit": "celsius", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:10", "sensor_id": "temp_001", "value": 22.7, "unit": "celsius", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:20", "sensor_id": "temp_001", "value": 22.6, "unit": "celsius", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:30", "sensor_id": "temp_001", "value": 35.2, "unit": "celsius", "status": "anomaly"},
+  {"timestamp": "2023-07-01T08:00:40", "sensor_id": "temp_001", "value": 22.8, "unit": "celsius", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:00", "sensor_id": "pressure_001", "value": 1013.2, "unit": "hPa", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:10", "sensor_id": "pressure_001", "value": 1013.1, "unit": "hPa", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:20", "sensor_id": "pressure_001", "value": 912.4, "unit": "hPa", "status": "anomaly"},
+  {"timestamp": "2023-07-01T08:00:30", "sensor_id": "pressure_001", "value": 1013.0, "unit": "hPa", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:40", "sensor_id": "pressure_001", "value": 1012.8, "unit": "hPa", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:00", "sensor_id": "humidity_001", "value": 45.2, "unit": "%", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:10", "sensor_id": "humidity_001", "value": 45.5, "unit": "%", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:20", "sensor_id": "humidity_001", "value": 45.7, "unit": "%", "status": "normal"},
+  {"timestamp": "2023-07-01T08:00:30", "sensor_id": "humidity_001", "value": null, "unit": "%", "status": "missing"},
+  {"timestamp": "2023-07-01T08:00:40", "sensor_id": "humidity_001", "value": 45.9, "unit": "%", "status": "normal"}
+]

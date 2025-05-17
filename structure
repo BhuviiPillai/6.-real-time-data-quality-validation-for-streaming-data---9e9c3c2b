@@ -1,0 +1,16 @@
+realtime_data_quality/
+├── data/
+│   └── sample_data.json        # Example data for testing
+├── models/
+│   └── anomaly_detection_model.pkl # Pre-trained anomaly detection model (optional)
+├── src/
+│   ├── data_generator.py      # (Optional) Script to generate sample streaming data
+│   ├── data_validator.py      # Main script for real-time data validation
+│   ├── validation_rules.py    # Defines data validation rules and AI model loading
+│   ├── utils.py               # Utility functions
+│   └── init.py
+├── tests/
+│   └── test_data_validator.py # Unit tests
+├── README.md
+├── requirements.txt
+└── setup.py
