@@ -1,0 +1,84 @@
+{
+  "total_data_points": 93,
+  "valid_data_points": 92,
+  "timestamp": "2025-05-16T14:00:30.297964",
+  "sensor_stats": {
+    "temp_001": {
+      "total": 31,
+      "valid": 31,
+      "valid_percentage": 100.0,
+      "completeness": {
+        "passed": 31,
+        "failed": 0,
+        "pass_percentage": 100.0
+      },
+      "range": {
+        "passed": 31,
+        "failed": 0,
+        "pass_percentage": 100.0
+      },
+      "anomaly": {
+        "passed": 31,
+        "failed": 0,
+        "pass_percentage": 100.0
+      }
+    },
+    "pressure_001": {
+      "total": 31,
+      "valid": 31,
+      "valid_percentage": 100.0,
+      "completeness": {
+        "passed": 31,
+        "failed": 0,
+        "pass_percentage": 100.0
+      },
+      "range": {
+        "passed": 31,
+        "failed": 0,
+        "pass_percentage": 100.0
+      },
+      "anomaly": {
+        "passed": 31,
+        "failed": 0,
+        "pass_percentage": 100.0
+      }
+    },
+    "humidity_001": {
+      "total": 31,
+      "valid": 30,
+      "valid_percentage": 96.77,
+      "completeness": {
+        "passed": 30,
+        "failed": 1,
+        "pass_percentage": 96.77
+      },
+      "range": {
+        "passed": 30,
+        "failed": 1,
+        "pass_percentage": 96.77
+      },
+      "anomaly": {
+        "passed": 30,
+        "failed": 1,
+        "pass_percentage": 96.77
+      }
+    }
+  },
+  "validation_stats": {
+    "completeness": {
+      "passed": 92,
+      "failed": 1,
+      "pass_percentage": 98.92
+    },
+    "range": {
+      "passed": 92,
+      "failed": 1,
+      "pass_percentage": 98.92
+    },
+    "anomaly": {
+      "passed": 92,
+      "failed": 1,
+      "pass_percentage": 98.92
+    }
+  }
+}
